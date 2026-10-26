@@ -1,6 +1,6 @@
 # Asistente virtual para tienda de videojuegos (Navi)
 
-Avance 1 del Proyecto Fase 1 — Desarrollo de aplicaciones con IA  
+Avance 1 del Proyecto — Desarrollo de aplicaciones con IA  
 Sebastian Martinez Maldonado — 7302634
 
 Chatbot basado en reglas con NLTK para una tienda de videojuegos. Reconoce siete
